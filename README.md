@@ -1,6 +1,11 @@
 # AWS-Restart-RDC---CDKIN1-Jean-Vecko
+<<<<<<< HEAD
 
 ## Déploiement Automatique sur Elastic Beanstalk
+=======
+# Déploiement d'une application Automatiquement sur Elastic Beanstalk
+
+>>>>>>> 814d5dfa53e21affbe0381046738e44ea4c3fc85
 Ce projet consiste en un script Python qui automatise le déploiement d'une application sur Elastic Beanstalk dès qu'une nouvelle version du code est disponible. Il utilise le SDK Boto3 pour interagir avec les services AWS.
 
 ## Configuration
@@ -17,6 +22,3 @@ Pour utiliser ce script, exécutez simplement le fichier `deploy.py` à chaque f
 
 ```bash
 python deploy.py
-
-
-N'hésitez pas à contribuer à ce projet en ajoutant de nouvelles fonctionnalités ou en améliorant le code existant. Si vous rencontrez des problèmes ou avez des questions, veuillez ouvrir une issue sur ce dépôt GitHub.
